@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/anotacoes_firebase/BuildConfig.java
+ com.example.anotacoes_firebase.BuildConfig
